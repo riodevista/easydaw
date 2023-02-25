@@ -1,0 +1,47 @@
+[
+   {
+      "id":0,
+      "name":"Kick",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":1,
+      "name":"Kick 1",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":2,
+      "name":"Kick 2",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":3,
+      "name":"Kick 3",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":4,
+      "name":"Kick 4",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":5,
+      "name":"Kick 5",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":6,
+      "name":"Kick 6",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":7,
+      "name":"Kick 7",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   },
+   {
+      "id":8,
+      "name":"Kick 8",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+   }
+]
