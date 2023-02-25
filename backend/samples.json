@@ -2,46 +2,46 @@
    {
       "id":0,
       "name":"Kick",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "url":"https://raw.githubusercontent.com/riodevista/easydaw/main/backend/Kick 808 Tone1.wav"
    },
    {
       "id":1,
-      "name":"Kick 1",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Cymbal",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Cymbal 808 Tone1 e.wav"
    },
    {
       "id":2,
-      "name":"Kick 2",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Snare",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Snare 808 Tone1.wav"
    },
    {
       "id":3,
-      "name":"Kick 3",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Beatbox",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Beatbox Quasheesh.wav"
    },
    {
       "id":4,
-      "name":"Kick 4",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Vocal",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Vocal Check It Out.wav"
    },
    {
       "id":5,
-      "name":"Kick 5",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Phrase",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Phrase Uh High 130 bpm.wav"
    },
    {
       "id":6,
-      "name":"Kick 6",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Guitar",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Electric Guitar Funky Wah G# Minor 115 bpm.wav"
    },
    {
       "id":7,
-      "name":"Kick 7",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Djembe",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Djembe 120 bpm.wav"
    },
    {
       "id":8,
-      "name":"Kick 8",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/kick.mp3"
+      "name":"Bomb Tick",
+      "url":"http:://github.com/riodevista/easydaw/backend/samples/Bomb Tick 101 bpm.wav"
    }
 ]
