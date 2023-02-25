@@ -1,47 +1,50 @@
-[
-   {
-      "id":0,
-      "name":"Kick",
-      "url":"https://raw.githubusercontent.com/riodevista/easydaw/main/backend/Kick 808 Tone1.wav"
-   },
-   {
-      "id":1,
-      "name":"Cymbal",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Cymbal 808 Tone1 e.wav"
-   },
-   {
-      "id":2,
-      "name":"Snare",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Snare 808 Tone1.wav"
-   },
-   {
-      "id":3,
-      "name":"Beatbox",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Beatbox Quasheesh.wav"
-   },
-   {
-      "id":4,
-      "name":"Vocal",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Vocal Check It Out.wav"
-   },
-   {
-      "id":5,
-      "name":"Phrase",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Phrase Uh High 130 bpm.wav"
-   },
-   {
-      "id":6,
-      "name":"Guitar",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Electric Guitar Funky Wah G# Minor 115 bpm.wav"
-   },
-   {
-      "id":7,
-      "name":"Djembe",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Djembe 120 bpm.wav"
-   },
-   {
-      "id":8,
-      "name":"Bomb Tick",
-      "url":"http:://github.com/riodevista/easydaw/backend/samples/Bomb Tick 101 bpm.wav"
-   }
-]
+{
+"samples" :
+   [
+      {
+         "id":0,
+         "name":"Kick",
+         "url":"https://raw.githubusercontent.com/riodevista/easydaw/main/backend/Kick 808 Tone1.wav"
+      },
+      {
+         "id":1,
+         "name":"Cymbal",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Cymbal 808 Tone1 e.wav"
+      },
+      {
+         "id":2,
+         "name":"Snare",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Snare 808 Tone1.wav"
+      },
+      {
+         "id":3,
+         "name":"Beatbox",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Beatbox Quasheesh.wav"
+      },
+      {
+         "id":4,
+         "name":"Vocal",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Vocal Check It Out.wav"
+      },
+      {
+         "id":5,
+         "name":"Phrase",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Phrase Uh High 130 bpm.wav"
+      },
+      {
+         "id":6,
+         "name":"Guitar",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Electric Guitar Funky Wah G# Minor 115 bpm.wav"
+      },
+      {
+         "id":7,
+         "name":"Djembe",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Djembe 120 bpm.wav"
+      },
+      {
+         "id":8,
+         "name":"Bomb Tick",
+         "url":"http:://github.com/riodevista/easydaw/backend/samples/Bomb Tick 101 bpm.wav"
+      }
+   ]
+}
